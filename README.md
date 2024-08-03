@@ -12,4 +12,4 @@
 для каждого класса и укажите результат<br>
 
 <details>
-### <summary>Ответ</summary>
+<summary>### Ответ</summary>
